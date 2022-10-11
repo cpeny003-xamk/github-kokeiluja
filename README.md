@@ -1,4 +1,4 @@
-# Github-kokeiluja
+# Git/GitHub-kokeiluja
 Kokeillaan githubia...
 
 ## Ominaisuuslista (features)
@@ -8,3 +8,5 @@ Kokeillaan githubia...
 * Bootstrap mukaan
 * Kissakuva etusivulle
 * Linkki Xamkin sivuille
+
+---
